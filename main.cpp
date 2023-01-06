@@ -1,4 +1,4 @@
-//thi
+//th
 #include<iostream>
 using namespace std;
 
