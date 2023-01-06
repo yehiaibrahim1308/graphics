@@ -254,7 +254,7 @@ void display(void)
     glRotatef(90,1,1,0);
     glutSolidCone(0.08,1.7,10,10);
     glPopMatrix();
-//right hand
+//right han
     glPushMatrix();
     glTranslated(-0.5 + shiftXaxis, 2.5, -10 + shiftZaxis);
     color(0, 0, 0);
