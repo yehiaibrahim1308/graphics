@@ -1,1 +1,1 @@
-grapics
+graphics
