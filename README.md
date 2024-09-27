@@ -7,4 +7,5 @@ The project not only showcases the basic functionality of a loop in programming 
 
 # Visual Documentation 
 
-![image](https://github.com/user-attachments/assets/5c14307c-692f-4abb-a433-452a889b6d71)
+![image](https://github.com/user-attachments/assets/899601f3-9a14-4299-a962-0f70d92dda2a)
+
